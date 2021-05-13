@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "einalauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "EinaLauncher",
+  "description": "Launcher oficial con pack de mods (Roleworlds)",
+  "author": "ByMoniXX (https://github.com/ByMoniXX)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
